@@ -1,0 +1,44 @@
+.flex-parent{
+     display: flex; 
+     font-size: 2rem;
+      flex-direction: column; 
+      flex-wrap:wrap-reverse ;
+     justify-content: center;
+     height:100vh;
+}
+
+
+.enfant1{
+    background-color:royalblue;
+    color: white;
+    height: 33vh;
+
+}
+
+
+.enfant2{
+    background-color: violet;
+    height: 33vh;
+
+
+}
+
+.enfant3{
+    background-color:red;
+    color: white;
+    height: 33vh;
+    
+
+}
+
+.enfant4{
+    background-color:orange;
+    color: white;
+    height: 33vh;
+}
+
+.enfant5{
+    background-color:green;
+    color: white;
+    height: 33vh;
+}
